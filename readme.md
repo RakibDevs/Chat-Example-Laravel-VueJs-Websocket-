@@ -3,7 +3,7 @@
 Real time chatting application built Laravel with WebSockets package, VueJs, Laravel-Echo, vue-chat-scroll, vue-timeago.
 
 ## 
-- Clone this repository `git clone git@github.com:qirolab/Laravel-WebSockets-Chat-Example.git`
+- Clone this repository `git clone git@github.com:qirolab/Chat-Example-Laravel-VueJs-Websocket-.git`
 - `composer install`
 - `php artisan key:generate`
 - copy .env.example .env and configure your database in .env file.
