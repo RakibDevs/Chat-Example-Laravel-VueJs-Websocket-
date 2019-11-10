@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/OHbrae2"></p>
+<p align="center">![alt test](screenshots/chat.png)</p>
 
 Real time chatting application built Laravel with WebSockets package, VueJs, Laravel-Echo, vue-chat-scroll, vue-timeago.
 
