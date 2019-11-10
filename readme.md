@@ -1,4 +1,4 @@
-<p align="center">![alt test](screenshots/chat.png)</p>
+![Real Time Chat](chat.png)
 
 Real time chatting application built Laravel with WebSockets package, VueJs, Laravel-Echo, vue-chat-scroll, vue-timeago.
 
@@ -11,4 +11,4 @@ Real time chatting application built Laravel with WebSockets package, VueJs, Lar
 - Final step run websockets server. `php artisan websockets:serve`
 - Now test it in your browser
 
-Special thanks to [qirolab] (https://github.com/qirolab/Laravel-WebSockets-Chat-Example)
+Special thanks to [qirolab](https://github.com/qirolab/Laravel-WebSockets-Chat-Example)
