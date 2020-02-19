@@ -9,7 +9,8 @@ Real time chatting application built Laravel with WebSockets package, VueJs, Lar
 - copy .env.example .env and configure your database in .env file.
 - configure .env with
     
-    ```PUSHER_APP_ID= anyId
+    ```
+    PUSHER_APP_ID= anyId
     PUSHER_APP_KEY= anyKey
     PUSHER_APP_SECRET= anySecret
     
